@@ -1,0 +1,2 @@
+# Why this package exists
+This package is just there to show in a minimal example how npm/arborist break down in certain conditions. To meet those conditions a package is needed that is published online and then installed locally afterwards.
